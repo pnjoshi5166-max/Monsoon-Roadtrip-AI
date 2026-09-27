@@ -1,0 +1,8 @@
+{
+  "name": "Varsha Live - Monsoon Roadtrip Safety & Hazard Navigation",
+  "description": "Monsoon roadtrip safety and navigation system for India harmonizing Google Maps Platform with Google Earth Engine satellite precipitation and water-index flood extents.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
